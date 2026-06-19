@@ -33,6 +33,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/thirddottyboi">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthirddottyboi&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthirddottyboi&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" />
+  </a>
+</p>
+
 I'm Muhammad 🌀
 - 🖥️ software engineer 💡
 - 🏹 trading 📈
@@ -45,7 +52,14 @@ I'm Muhammad 🌀
 
 <details>
   <summary><b>LeetCode</b></summary>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=thirddottyboi&theme=github-dark&border=no-border&animated=false" alt="LeetCode Badges" />
+  <br>
+  <a href="https://leetcode.com/thirddottyboi">
+    <img src="https://github-readme-leetcode-card.romitsagu.com/thirddottyboi?theme=tokyonight&show=graph,recent" alt="LeetCode Stats" />
+  </a>
+  <br>
+  <a href="https://leetcode.com/thirddottyboi">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=thirddottyboi&theme=tokyonight&border=no-border&animated=false" alt="LeetCode Badges" />
+  </a>
 </details>
 
 <details>
