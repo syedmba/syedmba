@@ -51,7 +51,10 @@ I'm Muhammad 🌀
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 <details>
-  <summary><b>LeetCode</b></summary>
+  <summary>
+    <img src="./leet-code.svg" alt="LeetCode" width="20" height="20" style="vertical-align: middle; margin-right: 5px;"/>
+    <b>LeetCode Statistics</b>
+  </summary>
   <br>
   <a href="https://leetcode.com/thirddottyboi">
     <img src="https://github-readme-leetcode-card.romitsagu.com/thirddottyboi?theme=tokyonight&show=graph,recent" alt="LeetCode Stats" />
@@ -63,13 +66,15 @@ I'm Muhammad 🌀
 </details>
 
 <details>
-  <summary><b>📸 Wings That Flew Now Colour These Shores</b></summary>
+  <summary>
+    <b>📸 Wings That Flew Now Colour These Shores</b>
+  </summary>
   <br>
-  <a href="https://github.com/syedmba7#gh-dark-mode-only">
+  <a href="https://github.com/syedmba#gh-dark-mode-only">
     <img src="./dark.jpeg"/>
   </a>
 
-  <a href="https://github.com/syedmba7#gh-light-mode-only">
+  <a href="https://github.com/syedmba#gh-light-mode-only">
     <img src="./dark.jpeg"/>
   </a>
 </details>
