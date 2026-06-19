@@ -3,8 +3,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedmba&color=dc143c" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interests-AI%20%26%20Trading-success?style=for-the-badge&logo=charts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative-Game%20Dev-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lifestyle-Outdoor%20Adventures-darkgreen?style=for-the-badge&logo=adventure&logoColor=white" />
 </p>
+
+<p align="center">
+  <a href="mailto:syed.muhammad4360@gmail.com">
+    <img src="https://img.shields.io/badge/Primary%20Email-syed.muhammad4360%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="mailto:syedmba7@connect.hku.hk">
+    <img src="https://img.shields.io/badge/Secondary%20Email-syedmba7%40connect.hku.hk-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,6 +47,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+> 🎭 **Let's Build Something:** I am actively looking to collaborate on fun, complex math or coding projects! If you have a wild idea, let's execute it.
+
 <p align="center">
   <a href="https://leetcode.com/thirddottyboi">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthirddottyboi&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" />
@@ -40,15 +56,15 @@
   </a>
 </p>
 
-I'm Muhammad 🌀
-- 🖥️ software engineer 💡
-- 🏹 trading 📈
-- 🧩 game dev 👾
-- 🍭 outdoor adventures ⛰️
-- 🎭 looking to collaborate on any fun math/coding projects 🧑‍🤝‍🧑
-- 🔮 reach me at [syedmba7@connect.hku.hk](mailto:syedmba7@connect.hku.hk) or at [syed.muhammad4360@gmail.com](mailto:syed.muhammad4360@gmail.com) 👨🏻‍⚖️
+## Fun Stuff
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedmba&color=dc143c&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+</p>
 
 <details>
   <summary>
@@ -78,6 +94,10 @@ I'm Muhammad 🌀
     <img src="./dark.jpeg"/>
   </a>
 </details>
+
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,3,4,5,6,7,10,12,14,18,20,24,26,27&height=150&section=footer&animation=fadeIn" />
+</p>
 
 
 
