@@ -9,10 +9,22 @@ I'm Muhammad 🌀
 - 🔮 reach me at [syedmba7@connect.hku.hk](mailto:syedmba7@connect.hku.hk) or at [syed.muhammad4360@gmail.com](mailto:syed.muhammad4360@gmail.com) 👨🏻‍⚖️
 
 
-<a href="https://github.com/syedmba7#gh-dark-mode-only">
-  <img src="./dark.jpeg"/>
-</a>
+![](https://komarev.com/ghpvc/?username=syedmba&color=dc143c)
 
-<a href="https://github.com/syedmba7#gh-light-mode-only">
-  <img src="./dark.jpeg"/>
-</a>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=thirddottyboi&theme=github-dark&border=no-border&animated=false" alt="LeetCode Badges" />
+
+<details>
+  <summary><b>📸 Wings That Flew Now Colour These Shores</b></summary>
+  <br>
+  <a href="https://github.com/syedmba7#gh-dark-mode-only">
+    <img src="./dark.jpeg"/>
+  </a>
+
+  <a href="https://github.com/syedmba7#gh-light-mode-only">
+    <img src="./dark.jpeg"/>
+  </a>
+</details>
+
+
+
+
